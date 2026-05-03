@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-p731tt.bibo.bot/sitemap.xml
